@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\darse\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\darse\\.nuget\\packages"
+    ]
+  }
+}
